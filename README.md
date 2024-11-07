@@ -1,6 +1,6 @@
 
 
-#Dot line comparision
+# Dot line 
 
 
 1. 以x,y为变量，进行线性回归
